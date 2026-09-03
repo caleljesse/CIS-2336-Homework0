@@ -7,6 +7,6 @@ common selectors:
 3. ID selectors
 */
 
-p{color:lavenderblush} /*element selector*/
+p{color:magenta} /*element selector*/
 .CIS2336{font-style: Comic ; color: red/*class selector*/
-#first {color: gold}/*ID selector*/
+#first {color: gold} /*ID selector*/
