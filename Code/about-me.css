@@ -8,5 +8,5 @@ common selectors:
 */
 
 p{color:magenta} /*element selector*/
-.CIS2336{font-style: Comic ; color: red/*class selector*/
-#first {color: gold} /*ID selector*/
+.CIS2336{font-style: Comic ; color: red} /*class selector*/
+#first{color: gold} /*ID selector*/
