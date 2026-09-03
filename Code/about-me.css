@@ -10,3 +10,11 @@ common selectors:
 p{color:magenta} /*element selector*/
 .CIS2336{font-style: Comic ; color: red} /*class selector*/
 #first{color: gold} /*ID selector*/
+
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7)), url(images/360_F_523806444_q0VHGHVaz1m9cs2jinc6K66D0gKiMJ3a.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
